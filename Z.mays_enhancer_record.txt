@@ -1,0 +1,622 @@
+
+1. Int J Dev Biol. 2020 Aug 25. doi: 10.1387/ijdb.200098sg. [Epub ahead of print]
+
+Identification of the maize Mediator CDK8 module, and transposon-mediated
+mutagenesis of ZmMed12a.
+
+Alonso-Nieves AL(1), N Degrees Ñez-Ríos T, Massange-Sánchez JA, Ahern KR,
+Lepe-Soltero D, García-Aguilar M, Brutnell TP, Sawers RJH, Gillmor CS.
+
+Author information: 
+(1)Laboratorio Nacional de Genómica para la Biodiversidad (Langebio), Unidad de
+Genómica Avanzada, Centro de Investigaciones y de Estudios Avanzados del
+Instituto Politécnico Nacional (CINVESTAV-IPN), Irapuato, Guanajuato, Mexico.
+
+BACKGROUND: Mediator is a conserved transcriptional co-activator that links
+transcription factors bound at enhancer elements to RNA Polymerase II.
+Mediator-RNA Polymerase II interactions can be sterically hindered by the Cyclin 
+Dependent Kinase 8 (CDK8) module, a submodule of Mediator that acts to repress
+transcription in response to discrete cellular and environmental cues. The CDK8
+module is conserved in all eukaryotes and consists of 4 proteins: CDK8, CYCLIN C 
+(CYCC), MED12, and MED13.
+METHODS: In this study, we have characterized the CDK8 module of Mediator in
+maize using genomic, molecular and functional resources.
+RESULTS: The maize genome contains single copy genes for Cdk8, CycC, and Med13,
+and two genes for Med12. Analysis of expression data for the CDK8 module
+demonstrated that all five genes are broadly expressed in maize tissues, and
+change their expression in response to phosphate and nitrogen limitation. We
+performed Dissociation (Ds) insertional mutagenesis, recovering two independent
+insertions in the ZmMed12a gene, one of which produces a truncated transcript.
+CONCLUSIONS: Our molecular identification of the maize CDK8 module, assays of
+CDK8 module expression under nutrient limitation, and characterization of
+transposon insertions in ZmMed12a establish the basis for molecular and
+functional studies of the role of these important transcriptional regulators in
+development and nutrient homeostasis in Zea mays.
+
+DOI: 10.1387/ijdb.200098sg 
+PMID: 32930384 
+
+
+2. PLoS Genet. 2020 Apr 24;16(4):e1008764. doi: 10.1371/journal.pgen.1008764.
+eCollection 2020 Apr.
+
+UNBRANCHED3 Expression and Inflorescence Development is Mediated by UNBRANCHED2
+and the Distal Enhancer, KRN4, in Maize.
+
+Du Y(1), Liu L(1), Peng Y(1), Li M(1), Li Y(1), Liu D(1), Li X(1), Zhang Z(1).
+
+Author information: 
+(1)National Key Laboratory of Crop Genetic Improvement, College of Plant Science 
+and Technology, Huazhong Agricultural University, Wuhan 430070, P.R. China.
+
+Enhancers are cis-acting DNA segments with the ability to increase target gene
+expression. They show high sensitivity to DNase and contain specific DNA elements
+in an open chromatin state that allows the binding of transcription factors
+(TFs). While numerous enhancers are annotated in the maize genome, few have been 
+characterized genetically. KERNEL ROW NUMBER4 (KRN4), an intergenic quantitative 
+trait locus for kernel row number, is assumed to be a cis-regulatory element of
+UNBRANCHED3 (UB3), a key inflorescence gene. However, the mechanism by which KRN4
+controls UB3 expression remains unclear. Here, we found that KRN4 exhibits an
+open chromatin state, harboring sequences that showed high enhancer activity
+toward the 35S and UB3 promoters. KRN4 is bound by UB2-centered transcription
+complexes and interacts with the UB3 promoter by three duplex interactions to
+affect UB3 expression. Sequence variation at KRN4 enhances ub2 and ub3 mutant ear
+fasciation. Therefore, we suggest that KRN4 functions as a distal enhancer of the
+UB3 promoter via chromatin interactions and recruitment of UB2-centered
+transcription complexes for the fine-tuning of UB3 expression in meristems of ear
+inflorescences. These results provide evidence that an intergenic region helps to
+finely tune gene expression, providing a new perspective on the genetic control
+of quantitative traits.
+
+DOI: 10.1371/journal.pgen.1008764 
+PMCID: PMC7202667
+PMID: 32330129  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+3. Plant Physiol. 2020 Apr;182(4):1713-1722. doi: 10.1104/pp.19.01475. Epub 2020 Mar
+2.
+
+A Synthetic Approach Allows Rapid Characterization of the Maize Nuclear Auxin
+Response Circuit.
+
+Ramos Báez R(1), Buckley Y(2), Yu H(2), Chen Z(3), Gallavotti A(3)(4), Nemhauser 
+JL(1), Moss BL(5).
+
+Author information: 
+(1)University of Washington, Department of Biology, Seattle, Washington 98105.
+(2)Whitman College, Department of Biology, Walla Walla, Washington 99362.
+(3)Waksman Institute of Microbiology, Rutgers University, Piscataway, New Jersey 
+08854-8020.
+(4)Department of Plant Biology, Rutgers University, New Brunswick, New Jersey
+08901.
+(5)Whitman College, Department of Biology, Walla Walla, Washington 99362
+mossbl@whitman.edu.
+
+Comment in
+    Plant Physiol. 2020 Jun;183(2):416-417.
+
+Auxin plays a key role across all land plants in growth and developmental
+processes. Although auxin signaling function has diverged and expanded,
+differences in the molecular functions of signaling components have largely been 
+characterized in Arabidopsis (Arabidopsis thaliana). Here, we used the nuclear
+Auxin Response Circuit recapitulated in yeast (Saccharomyces cerevisiae) system
+to functionally annotate maize (Zea mays) auxin signaling components, focusing on
+genes expressed during the development of ear and tassel inflorescences. All 16
+maize auxin/indole-3-acetic acid repressor proteins were degraded in response to 
+auxin with rates that depended on both receptor and repressor identities. When
+fused to the maize TOPLESS homolog RAMOSA1 ENHANCER LOCUS2, maize
+auxin/indole-3-acetic acids were able to repress AUXIN RESPONSE FACTOR
+transcriptional activity. A complete auxin response circuit comprising all maize 
+components, including the ZmAFB2/3 b1 maize AUXIN SIGNALING F-BOX (AFB) receptor,
+was fully functional. The ZmAFB2/3 b1 auxin receptor was more sensitive to
+hormone than AtAFB2 and allowed for rapid circuit activation upon auxin addition.
+These results validate the conserved role of predicted auxin response genes in
+maize as well as provide evidence that a synthetic approach can facilitate
+broader comparative studies across the wide range of species with sequenced
+genomes.
+
+© 2020 American Society of Plant Biologists. All Rights Reserved.
+
+DOI: 10.1104/pp.19.01475 
+PMCID: PMC7140906
+PMID: 32123041 
+
+
+4. Food Chem. 2020 May 1;311:126010. doi: 10.1016/j.foodchem.2019.126010. Epub 2019 
+Dec 10.
+
+Assessment of chitosan biopolymer encapsulated α-Terpineol against fungal,
+aflatoxin B1 (AFB1) and free radicals mediated deterioration of stored maize and 
+possible mode of action.
+
+Kumar Chaudhari A(1), Singh A(1), Kumar Singh V(1), Kumar Dwivedy A(1), Das S(1),
+Grace Ramsdam M(2), Dkhar MS(2), Kayang H(2), Kishore Dubey N(3).
+
+Author information: 
+(1)Laboratory of Herbal Pesticides, Centre of Advanced Study in Botany, Institute
+of Science, Banaras Hindu University, Varanasi 221005, India.
+(2)Department of Botany, North-Eastern Hill University (NEHU), Shillong 793022,
+India.
+(3)Laboratory of Herbal Pesticides, Centre of Advanced Study in Botany, Institute
+of Science, Banaras Hindu University, Varanasi 221005, India. Electronic address:
+nkdubeybhu@gmail.com.
+
+This study reports enhanced efficacy of encapsulated α-Terpineol to control
+fungal, aflatoxin B1 (AFB1) and free radicals mediated deterioration of stored
+maize samples. The α-Terpineol loaded chitosan nanoemulsion (α-TCsNe) was
+characterized through SEM, FTIR and XRD techniques. The α-TCsNe exhibited
+enhanced antifungal activity against aflatoxin secreting strain of Aspergillus
+flavus (AF-LHP-S1) and 12 other food borne moulds as well as AFB1 production at
+0.4 and 0.3 µL/mL, respectively. Further, α-TCsNe inhibited ergosterol synthesis,
+methylglyoxal (the aflatoxin enhancer) content and enhanced cellular contents
+release. α-TCsNe showed enhanced radical scavenging activity with IC50 value
+equivalent to 39.57 and 6.23 µL/mL for DPPH and ABTS, respectively. In addition, 
+α-TCsNe completely inhibited AFB1 production in stored maize samples during in
+situ investigation. Overall, α-TCsNe holds a promising potential and can be
+recommended as a novel antifungal preservative to improve the shelf-life of
+stored maize samples against fungal and aflatoxin contamination.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodchem.2019.126010 
+PMID: 31869648  [Indexed for MEDLINE]
+
+
+5. Nat Plants. 2019 Dec;5(12):1237-1249. doi: 10.1038/s41477-019-0547-0. Epub 2019
+Nov 18.
+
+Widespread long-range cis-regulatory elements in the maize genome.
+
+Ricci WA(1), Lu Z(2), Ji L(3), Marand AP(2), Ethridge CL(2), Murphy NG(2), Noshay
+JM(4), Galli M(5), Mejía-Guerra MK(6), Colomé-Tatché M(7)(8), Johannes F(8)(9),
+Rowley MJ(10), Corces VG(10), Zhai J(11), Scanlon MJ(6), Buckler
+ES(6)(12)(13)(14), Gallavotti A(5), Springer NM(4), Schmitz RJ(15)(16), Zhang
+X(17).
+
+Author information: 
+(1)Department of Plant Biology, University of Georgia, Athens, GA, USA.
+(2)Department of Genetics, University of Georgia, Athens, GA, USA.
+(3)Institute of Bioinformatics, University of Georgia, Athens, GA, USA.
+(4)Department of Plant and Microbial Biology, University of Minnesota, Saint
+Paul, MN, USA.
+(5)Waksman Institute of Microbiology, Rutgers University, Piscataway, NJ, USA.
+(6)Plant Biology Section, School of Integrative Plant Science, Cornell
+University, Ithaca, NY, USA.
+(7)Institute of Computational Biology, Helmholtz Center Munich, German Research
+Center for Environmental Health, Neuherberg, Germany.
+(8)Department of Plant Science, Technical University of Munich, Freising,
+Germany.
+(9)Institute for Advanced Study, Technical University of Munich, Garching,
+Germany.
+(10)Department of Biology, Emory University, Atlanta, GA, USA.
+(11)Institute of Plant and Food Science, Department of Biology, Southern
+University of Science and Technology, Shenzhen, China.
+(12)Institute for Genomic Diversity, Cornell University, Ithaca, NY, USA.
+(13)US Department of Agriculture-Agricultural Research Service, Robert Holley
+Center, Ithaca, NY, USA.
+(14)Department of Plant Breeding and Genetics, Cornell University, Ithaca, NY,
+USA.
+(15)Department of Genetics, University of Georgia, Athens, GA, USA.
+schmitz@uga.edu.
+(16)Institute for Advanced Study, Technical University of Munich, Garching,
+Germany. schmitz@uga.edu.
+(17)Department of Plant Biology, University of Georgia, Athens, GA, USA.
+xiaoyu@uga.edu.
+
+Erratum in
+    Nat Plants. 2020 Mar;6(3):328.
+
+Comment in
+    Nat Rev Genet. 2020 Feb;21(2):68-69.
+
+Genetic mapping studies on crops suggest that agronomic traits can be controlled 
+by gene-distal intergenic loci. Despite the biological importance and the
+potential agronomic utility of these loci, they remain virtually uncharacterized 
+in all crop species to date. Here, we provide genetic, epigenomic and functional 
+molecular evidence to support the widespread existence of gene-distal (hereafter,
+distal) loci that act as long-range transcriptional cis-regulatory elements
+(CREs) in the maize genome. Such loci are enriched for euchromatic features that 
+suggest their regulatory functions. Chromatin loops link together putative CREs
+with genes and recapitulate genetic interactions. Putative CREs also display
+elevated transcriptional enhancer activities, as measured by self-transcribing
+active regulatory region sequencing. These results provide functional support for
+the widespread existence of CREs that act over large genomic distances to control
+gene expression.
+
+DOI: 10.1038/s41477-019-0547-0 
+PMCID: PMC6904520
+PMID: 31740773  [Indexed for MEDLINE]
+
+
+6. Nat Commun. 2019 Jun 14;10(1):2632. doi: 10.1038/s41467-019-10602-5.
+
+Chromatin interaction maps reveal genetic regulation for quantitative traits in
+maize.
+
+Peng Y(1), Xiong D(1), Zhao L(1), Ouyang W(1), Wang S(1), Sun J(2), Zhang Q(1),
+Guan P(1), Xie L(1), Li W(1), Li G(3)(4), Yan J(5), Li X(6).
+
+Author information: 
+(1)National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural
+University, 1 Shizishan Street, Hongshan District, Wuhan, 430070, Hubei, China.
+(2)Hubei Key Laboratory of Agricultural Bioinformatics and Hubei Engineering
+Technology Research Center of Agricultural Big Data, Huazhong Agricultural
+University, 1 Shizishan Street, Hongshan District, Wuhan, 430070, Hubei, China.
+(3)National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural
+University, 1 Shizishan Street, Hongshan District, Wuhan, 430070, Hubei, China.
+guoliang.li@mail.hzau.edu.cn.
+(4)Hubei Key Laboratory of Agricultural Bioinformatics and Hubei Engineering
+Technology Research Center of Agricultural Big Data, Huazhong Agricultural
+University, 1 Shizishan Street, Hongshan District, Wuhan, 430070, Hubei, China.
+guoliang.li@mail.hzau.edu.cn.
+(5)National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural
+University, 1 Shizishan Street, Hongshan District, Wuhan, 430070, Hubei, China.
+yjianbing@mail.hzau.edu.cn.
+(6)National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural
+University, 1 Shizishan Street, Hongshan District, Wuhan, 430070, Hubei, China.
+xingwangli@mail.hzau.edu.cn.
+
+Chromatin loops connect regulatory elements to their target genes. They serve as 
+bridges between transcriptional regulation and phenotypic variation in mammals.
+However, spatial organization of regulatory elements and its impact on gene
+expression in plants remain unclear. Here, we characterize epigenetic features of
+active promoter proximal regions and candidate distal regulatory elements to
+construct high-resolution chromatin interaction maps for maize via long-read
+chromatin interaction analysis by paired-end tag sequencing (ChIA-PET). The maps 
+indicate that chromatin loops are formed between regulatory elements, and that
+gene pairs between promoter proximal regions tend to be co-expressed. The maps
+also demonstrated the topological basis of quantitative trait loci which
+influence gene expression and phenotype. Many promoter proximal regions are
+involved in chromatin loops with distal regulatory elements, which regulate
+important agronomic traits. Collectively, these maps provide a high-resolution
+view of 3D maize genome architecture, and its role in gene expression and
+phenotypic variation.
+
+DOI: 10.1038/s41467-019-10602-5 
+PMCID: PMC6572838
+PMID: 31201335  [Indexed for MEDLINE]
+
+
+7. Nat Prod Res. 2020 Mar;34(5):745-749. doi: 10.1080/14786419.2018.1499634. Epub
+2018 Nov 13.
+
+Chemically characterised Pimenta dioica (L.) Merr. essential oil as a novel plant
+based antimicrobial against fungal and aflatoxin B1 contamination of stored maize
+and its possible mode of action.
+
+Chaudhari AK(1), Singh VK(1), Dwivedy AK(1), Das S(1), Upadhyay N(1), Singh A(1),
+Dkhar MS(2), Kayang H(2), Prakash B(1), Dubey NK(1).
+
+Author information: 
+(1)Laboratory of Herbal Pesticides, Centre of Advanced Study in Botany, Institute
+of Science, Banaras Hindu University, Varanasi, U.P., India.
+(2)Department of Botany, North-Eastern Hill University, Shillong, India.
+
+The chemical characterisation of Pimenta dioica essential oil (PDEO) revealed the
+presence of 50 components, amongst which α-Terpineol (30.31%) was the major
+component followed by β-Linalool (6.75%) and γ-Terpinene (4.64%). The oil
+completely inhibited the growth of aflatoxin B1 secreting strain Aspergillus
+flavus LHP-VS-8 and aflatoxin B1 production at 2.5 µL/mL and 1.5 µL/mL,
+respectively. The oil caused dose dependent reduction of methylglyoxal (an AFB1
+inducer), enhanced leakage of Ca2+, Mg2+ and K+ ions and significantly reduced
+ergosterol content of fungal plasma membrane. During in situ experiments, PDEO
+exhibited complete protection of fumigated maize cob slices from fungal
+infestation without affecting seed germination. The chemically characterised PDEO
+is recommended as a plant based preservative and shelf life enhancer of food
+commodities by preventing fungal growth, AFB1 production and lipid peroxidation. 
+This is the first report on PDEO as inhibitor of AFB1 secretion and methylglyoxal
+biosynthesis.
+
+DOI: 10.1080/14786419.2018.1499634 
+PMID: 30421964  [Indexed for MEDLINE]
+
+
+8. Plant Physiol. 2019 Jan;179(1):348-363. doi: 10.1104/pp.18.00913. Epub 2018 Oct
+22.
+
+RAMOSA1 ENHANCER LOCUS2-Mediated Transcriptional Repression Regulates Vegetative 
+and Reproductive Architecture.
+
+Liu X(1), Galli M(1), Camehl I(1), Gallavotti A(2)(3).
+
+Author information: 
+(1)Waksman Institute of Microbiology, Rutgers University, Piscataway, New Jersey 
+08854-8020.
+(2)Waksman Institute of Microbiology, Rutgers University, Piscataway, New Jersey 
+08854-8020 agallavotti@waksman.rutgers.edu.
+(3)Department of Plant Biology, Rutgers University, New Brunswick, New Jersey USA
+08901.
+
+Transcriptional repression in multicellular organisms orchestrates dynamic and
+precise gene expression changes that enable complex developmental patterns. Here,
+we present phenotypic and molecular characterization of the maize (Zea mays)
+transcriptional corepressor RAMOSA1 ENHANCER LOCUS2 (REL2), a unique member of
+the highly conserved TOPLESS (TPL) family. Analysis of single recessive mutations
+in rel2 revealed an array of vegetative and reproductive phenotypes, many related
+to defects in meristem initiation and maintenance. To better understand how
+REL2-mediated transcriptional complexes relate to rel2 phenotypes, we performed
+protein interaction assays and transcriptional profiling of mutant
+inflorescences, leading to the identification of different maize transcription
+factors and regulatory pathways that employ REL2 repression to control traits
+directly impacting maize yields. In addition, we used our REL2 interaction data
+to catalog conserved repression motifs present on REL2 interactors and showed
+that two of these, RLFGV- and DLN-type motifs, interact with the C-terminal WD40 
+domain of REL2 rather than the N terminus, which is known to bind LxLxL EAR
+motifs. These findings establish that the WD40 domain of TPL family proteins is
+an independent protein interaction surface that may work together with the
+N-terminal domain to allow the formation of large macromolecular complexes of
+functionally related transcription factors.
+
+© 2019 American Society of Plant Biologists. All Rights Reserved.
+
+DOI: 10.1104/pp.18.00913 
+PMCID: PMC6324236
+PMID: 30348817  [Indexed for MEDLINE]
+
+
+9. J Anim Sci. 2018 Dec 3;96(12):5144-5151. doi: 10.1093/jas/sky361.
+
+Fermented corn-soybean meal elevated IGF1 levels in grower-finisher pigs.
+
+Fan L(1), Dou M(1), Wang X(1), Han Q(1), Zhao B(2), Hu J(1), Yang G(1), Shi X(1),
+Li X(1).
+
+Author information: 
+(1)College of Animal Science and Technology, Northwest A & F University,
+Yangling, Shaanxi, P. R. China.
+(2)Tongchuan Yuanheng Ecological Agriculture Co., Ltd., Tongchuan, Shaanxi, P. R.
+China.
+
+Fermentation has attracted increasing attention in pig industry, because of low
+costs and numerous benefits on pig growth and health as well as environmental
+improvement, although the mechanisms remain largely unknown. In the present
+study, fermented corn-soybean meal significantly improved average daily gain and 
+gain:food ratio (P < 0.05). Fermented feed (FF) significantly increased
+insulin-like growth factor 1 (IGF1) transcription in liver (P < 0.05). Meanwhile,
+fermented meal significantly enhanced the binding of CCAAT/enhancer-binding
+protein beta (C/EBPβ) to IGF1 promoter and C/EBPβ expression in liver (both P <
+0.05). FF tended to increase IGF1 proteins in liver and serum too (both 0.05 < P 
+< 0.10). Meanwhile, FF slightly but significantly increased hepatic and
+circulating triglyceride and total cholesterol levels, as well as serum ratio of 
+high-density to low-density cholesterol (all P < 0.05). Our data indicated that
+FF could significantly augment the binding of C/EBPβ to IGF1 promoter and promote
+hepatic IGF1 expression and production, thus boost pig growth.
+
+DOI: 10.1093/jas/sky361 
+PMCID: PMC6276558
+PMID: 30203098  [Indexed for MEDLINE]
+
+
+10. G3 (Bethesda). 2018 Nov 6;8(11):3583-3592. doi: 10.1534/g3.118.200499.
+
+Bulked-Segregant Analysis Coupled to Whole Genome Sequencing (BSA-Seq) for Rapid 
+Gene Cloning in Maize.
+
+Klein H(1), Xiao Y(2), Conklin PA(3), Govindarajulu R(4), Kelly JA(2), Scanlon
+MJ(3), Whipple CJ(2), Bartlett M(5).
+
+Author information: 
+(1)Plant Biology Graduate Program and Biology Department, University of
+Massachusetts Amherst, Amherst, MA 01003.
+(2)Department of Biology, Brigham Young University, 4102 LSB, Provo, UT 84602.
+(3)Department of Plant Biology, Cornell University, Ithaca, NY 14853.
+(4)Department of Biology, West Virginia University, Morgantown, WV 26506.
+(5)Plant Biology Graduate Program and Biology Department, University of
+Massachusetts Amherst, Amherst, MA 01003 mbartlett@bio.umass.edu.
+
+Forward genetics remains a powerful method for revealing the genes underpinning
+organismal form and function, and for revealing how these genes are tied together
+in gene networks. In maize, forward genetics has been tremendously successful,
+but the size and complexity of the maize genome made identifying mutant genes an 
+often arduous process with traditional methods. The next generation sequencing
+revolution has allowed for the gene cloning process to be significantly
+accelerated in many organisms, even when genomes are large and complex. Here, we 
+describe a bulked-segregant analysis sequencing (BSA-Seq) protocol for cloning
+mutant genes in maize. Our simple strategy can be used to quickly identify a
+mapping interval and candidate single nucleotide polymorphisms (SNPs) from whole 
+genome sequencing of pooled F2 individuals. We employed this strategy to identify
+narrow odd dwarf as an enhancer of teosinte branched1, and to identify a new
+allele of defective kernel1 Our method provides a quick, simple way to clone
+genes in maize.
+
+Copyright © 2018 Klein et al.
+
+DOI: 10.1534/g3.118.200499 
+PMCID: PMC6222591
+PMID: 30194092  [Indexed for MEDLINE]
+
+
+1. Am J Chin Med. 2018;46(5):1045-1063. doi: 10.1142/S0192415X18500544. Epub 2018
+Jul 5.
+
+Galectin-12 is Involved in Corn Silk-Induced Anti-Adipogenesis and Anti-Obesity
+Effects.
+
+Hsu YA(1), Kuo YH(1), Chen CS(2)(3)(4), Chen YC(5), Huang CC(6), Chang CY(7), Lin
+CJ(8)(9), Lin CW(10), Lin HJ(11)(12), Liu FT(6)(12), Wan L(1)(13)(14)(7).
+
+Author information: 
+(1)* School of Chinese Medicine, China Medical University, Taichung, Taiwan.
+(2)† Graduate Institute of Chinese Medicine, China Medical University, Taichung, 
+Taiwan.
+(3)¶ Division of Chinese Traumatology, China Medical University Hospital,
+Taichung, Taiwan.
+(4)†† Division of Chinese Medicine, Asia University Hospital, Taichung, Taiwan.
+(5)‡‡ Department of Biomedical Science, Bonn-Rhein-Sieg University of Applied
+Science, Rheinbach, Germany.
+(6)§§ Institute of Biomedical Sciences, Academia Sinica, Taipei, Taiwan.
+(7)¶¶ Department of Biotechnology, Asia University, Taichung, Taiwan.
+(8)∥∥ Department of Pediatrics, Changhua Christian Children's Hospital, Changhua,
+Taiwan.
+(9)*** School of Medicine, Chung Shan Medical University, Taichung, Taiwan.
+(10)‡ Department of Medical Laboratory Science and Biotechnology, China Medical
+University, Taichung, Taiwan.
+(11)∥ Department of Ophthalmology, China Medical University Hospital, Taichung,
+Taiwan.
+(12)††† Department of Dermatology, University of California, Davis School of
+Medicine, Sacramento, California, USA.
+(13)§ Research Center for Chinese Medicine & Acupuncture, China Medical
+University, Taichung, Taiwan.
+(14)** Department of Obstetrics and Gynecology, China Medical University
+Hospital, Taichung, Taiwan.
+
+Obesity is a significant risk factor for various diseases. It is a clinical
+condition caused by the excessive accumulation of fat, which has a negative
+impact on human health. Galactin-12 is an adipocyte-expressed protein and
+possesses adipocyte-inducing activity. We investigated the expression level of
+candidate proteins involved in galactin-12-mediated adipocyte differentiation
+pathway. We performed a high-throughput screening assay to monitor galectin-12
+promoter activity using 105 traditional Chinese herbs. Corn silk extract and
+[Formula: see text]-sitosterol reduced the expression of galactin-12 promoter in 
+3T3-L1 cells. In addition, corn silk extract and [Formula: see text]-sitosterol
+decreased the level of lipid droplets and downregulated the gene and protein
+expression level of C/EBP[Formula: see text], C/EBP[Formula: see text],
+PPAR[Formula: see text], Ap2, and adipsin in 3T3-L1 pre-adipocytes via AKT and
+ERK1/2 inhibition. In vivo study with the oral administration of corn silk
+extract and [Formula: see text]-sitosterol in a mouse model showed a significant 
+weight reduction and decrease in adipocytes in several organs such as the liver
+and adipose tissue. Taken together, corn silk extract and [Formula: see
+text]-sitosterol may effectively reduce pre-adipocyte differentiation by
+inhibiting galectin-12 activity and exerting anti-obesity effects. These findings
+highlight the potential use of corn silk extract and [Formula: see
+text]-sitosterol as potential candidates for the prevention and treatment of
+obesity.
+
+DOI: 10.1142/S0192415X18500544 
+PMID: 29976086  [Indexed for MEDLINE]
+
+
+2. Food Chem. 2018 Nov 1;265:242-252. doi: 10.1016/j.foodchem.2018.05.095. Epub 2018
+May 22.
+
+Effect of processing variables on the physico-chemical characteristics and aroma 
+of borş, a traditional beverage derived from wheat bran.
+
+Pasqualone A(1), Summo C(2), Laddomada B(3), Mudura E(4), Coldea TE(4).
+
+Author information: 
+(1)Department of Soil, Plant and Food Sciences, University of Bari 'Aldo Moro',
+Via Amendola, 165/A, 70126 Bari, Italy. Electronic address:
+antonella.pasqualone@uniba.it.
+(2)Department of Soil, Plant and Food Sciences, University of Bari 'Aldo Moro',
+Via Amendola, 165/A, 70126 Bari, Italy.
+(3)Institute of Sciences of Food Production (I.S.P.A.), C.N.R., via Monteroni,
+73100 Lecce, Italy.
+(4)Department of Food Engineering, University of Agricultural Sciences and
+Veterinary Medicine, Calea Manastur, 3-5, 400372 Cluj-Napoca, Romania.
+
+Borş is a traditional Romanian beverage obtained by naturally fermenting an
+aqueous suspension of wheat bran and corn flour, used as flavoring enhancer in
+local gastronomy since ancient times, and more recently consumed as refreshing
+drink. To investigate the changes in sensory, physico-chemical, phenolic and
+aroma composition resulted after two successive fermentations, borș samples were 
+subjected to standard, sensory, HPLC and GC/MS analysis. Total phenolic compounds
+and ferulic acid, the most abundant phenolic compound, were positively influenced
+by natural starter addition, increase of fermentation temperature, and thermal
+treatment, whereas the effect on less abundant phenolic acids was not univocal.
+The variables had the same effect on antioxidant activity and brown index.
+Volatiles (alcohols, carboxylic acids, esters), pungent-sour and goat milk-cheese
+odor notes increased at higher fermentation temperature, whereas bran and yogurt 
+odor notes decreased. The addition of a natural starter at 4 °C allowed balancing
+odor intensity and antioxidant activity.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodchem.2018.05.095 
+PMID: 29884380  [Indexed for MEDLINE]
+
+
+3. Rejuvenation Res. 2018 Oct;21(5):431-441. doi: 10.1089/rej.2017.2009. Epub 2018
+May 30.
+
+Functional Drink Containing the Extracts of Purple Corn Cob and Pandan Leaves,
+the Novel Cognitive Enhancer, Increases Spatial Memory and Hippocampal Neuron
+Density Through the Improvement of Extracellular Signal Regulated Protein Kinase 
+Expression, Cholinergic Function, and Oxidative Status in Ovariectomized Rats.
+
+Wattanathorn J(1)(2), Kirisattayakul W(2)(3), Suriharn B(4), Lertrat K(4).
+
+Author information: 
+(1)1 Department of Physiology, Faculty of Medicine, Khon Kaen University , Khon
+Kaen, Thailand .
+(2)2 Integrative Complementary Alternative Medicine Research and Development
+Center, Khon Kaen University , Khon Kaen, Thailand .
+(3)3 Department of Physiology and Graduate School (Neuroscience Program), Faculty
+of Medicine, Khon Kaen University , Khon Kaen, Thailand .
+(4)4 Department of Plant Science and Agricultural Resources, Faculty of
+Agriculture, Khon Kaen University , Khon Kaen, Thailand .
+
+Due to requirement of novel memory enhancer for menopausal women, this study
+aimed to determine safety and effect of the functional drink containing the
+extracts of purple corn cob and pandan leaves (PCP) on memory and brain changes
+in experimental menopause induced by bilateral ovariectomy (OVX). Acute toxicity 
+of PCP was carried out in female Wistar rats. The results showed that LD50 was
+more than 2000 mg/kg BW. To determine the cognitive enhancing effect of PCP, OVX 
+rats were orally treated with PCP at the doses of 20, 40, and 80 mg/kg BW for 28 
+days. The spatial memory was assessed every 7 days throughout the study period.
+At the end of the study, oxidative stress status, acetylcholinesterase (AChE)
+activity, monoamine oxidase (MAO) activity, neuronal density, and extracellular
+signal regulated protein kinase 1 and 2 (ERK1/2) signaling in hippocampus were
+measured. The improved spatial memory, ERK1/2 expression, and neuron density in
+dentate gyrus of hippocampus were observed in PCP-treated rats. In addition, a
+reduction of AChE activity was also observed. Unfortunately, no improved
+oxidative stress status was observed. Taken altogether, PCP exerts the
+memory-enhancing effect partly through the suppression of AChE and the increase
+in ERK signaling in the hippocampus.
+
+DOI: 10.1089/rej.2017.2009 
+PMID: 29847217  [Indexed for MEDLINE]
+
+
+4. Plant Physiol. 2018 Apr;176(4):2789-2803. doi: 10.1104/pp.17.01467. Epub 2018 Feb
+20.
+
+Proliferation of Regulatory DNA Elements Derived from Transposable Elements in
+the Maize Genome.
+
+Zhao H(1)(2), Zhang W(3)(4), Chen L(5), Wang L(5), Marand AP(1), Wu Y(5), Jiang
+J(6)(2).
+
+Author information: 
+(1)Department of Horticulture, University of Wisconsin-Madison, Madison,
+Wisconsin 53706.
+(2)Department of Plant Biology, Department of Horticulture, Michigan State
+University, East Lansing, Michigan 48824.
+(3)State Key Laboratory for Crop Genetics and Germplasm Enhancement, Nanjing
+Agriculture University, Nanjing, Jiangsu 210095, China wzhang25@njau.edu.cn
+jiangjm@msu.edu.
+(4)Jiangsu Collaborative Innovation Center for Modern Crop Production, Nanjing
+Agriculture University, Nanjing, Jiangsu 210095, China.
+(5)State Key Laboratory for Crop Genetics and Germplasm Enhancement, Nanjing
+Agriculture University, Nanjing, Jiangsu 210095, China.
+(6)Department of Horticulture, University of Wisconsin-Madison, Madison,
+Wisconsin 53706 wzhang25@njau.edu.cn jiangjm@msu.edu.
+
+Genomic regions free of nucleosomes, which are hypersensitive to DNase I
+digestion, are known as DNase I hypersensitive sites (DHSs) and frequently
+contain cis-regulatory DNA elements. To investigate their prevalence and
+characteristics in maize (Zea mays), we developed high-resolution genome-wide DHS
+maps using a modified DNase-seq technique. Maize DHSs exhibit depletion of
+nucleosomes and low levels of DNA methylation and are enriched with conserved
+noncoding sequences (CNSs). We developed a protoplast-based transient
+transformation assay to assess the potential gene expression enhancer and/or
+promoter functions associated with DHSs, which showed that more than 80% of DHSs 
+overlapping with CNSs showed an enhancer function. Strikingly, nearly 25% of
+maize DHSs were derived from transposable elements (TEs), including both class I 
+and class II transposons. Interestingly, TE-derived DHSs (teDHSs) homologous to
+retrotransposons were enriched with sequences related to the intrinsic
+cis-regulatory elements within the long terminal repeats of retrotransposons. We 
+demonstrate that more than 80% of teDHSs can drive transcription of a reporter
+gene in protoplast assays. These results reveal the widespread occurrence of
+TE-derived cis-regulatory sequences and suggest that teDHSs play a major role in 
+transcriptional regulation in maize.
+
+© 2018 American Society of Plant Biologists. All Rights Reserved.
+
+DOI: 10.1104/pp.17.01467 
+PMCID: PMC5884613
+PMID: 29463772  [Indexed for MEDLINE]
+
